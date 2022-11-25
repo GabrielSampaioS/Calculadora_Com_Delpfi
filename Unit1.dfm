@@ -1,0 +1,186 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 342
+  ClientWidth = 590
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Button_7: TButton
+    Left = 104
+    Top = 123
+    Width = 89
+    Height = 41
+    Caption = '7'
+    TabOrder = 0
+    OnClick = Button_7Click
+  end
+  object Button_Adicionar: TButton
+    Left = 389
+    Top = 123
+    Width = 89
+    Height = 41
+    Caption = '+'
+    TabOrder = 1
+    OnClick = Button_AdicionarClick
+  end
+  object Button_4: TButton
+    Left = 104
+    Top = 170
+    Width = 89
+    Height = 41
+    Caption = '4'
+    TabOrder = 2
+    OnClick = Button_4Click
+  end
+  object Button_5: TButton
+    Left = 199
+    Top = 170
+    Width = 89
+    Height = 41
+    Caption = '5'
+    TabOrder = 3
+    OnClick = Button_5Click
+  end
+  object Button_6: TButton
+    Left = 294
+    Top = 170
+    Width = 89
+    Height = 41
+    Caption = '6'
+    TabOrder = 4
+    OnClick = Button_6Click
+  end
+  object Button_Subtrair: TButton
+    Left = 389
+    Top = 170
+    Width = 89
+    Height = 41
+    Caption = '-'
+    TabOrder = 5
+    OnClick = Button_SubtrairClick
+  end
+  object Button_1: TButton
+    Left = 104
+    Top = 217
+    Width = 89
+    Height = 41
+    Caption = '1'
+    TabOrder = 6
+    OnClick = Button_1Click
+  end
+  object Button_2: TButton
+    Left = 199
+    Top = 217
+    Width = 89
+    Height = 41
+    Caption = '2'
+    TabOrder = 7
+    OnClick = Button_2Click
+  end
+  object Button_3: TButton
+    Left = 294
+    Top = 217
+    Width = 89
+    Height = 41
+    Caption = '3'
+    TabOrder = 8
+    OnClick = Button_3Click
+  end
+  object Button_Multiplicar: TButton
+    Left = 389
+    Top = 217
+    Width = 89
+    Height = 41
+    Caption = '*'
+    TabOrder = 9
+    OnClick = Button_MultiplicarClick
+  end
+  object Button_Limpar: TButton
+    Left = 104
+    Top = 264
+    Width = 89
+    Height = 41
+    Caption = 'Limpar'
+    TabOrder = 10
+    OnClick = Button_LimparClick
+  end
+  object Button_0: TButton
+    Left = 199
+    Top = 264
+    Width = 89
+    Height = 41
+    Caption = '0'
+    TabOrder = 11
+    OnClick = Button_0Click
+  end
+  object Button_Resultado: TButton
+    Left = 294
+    Top = 264
+    Width = 89
+    Height = 41
+    Caption = '='
+    TabOrder = 12
+    OnClick = Button_ResultadoClick
+  end
+  object Button_Dividir: TButton
+    Left = 389
+    Top = 264
+    Width = 89
+    Height = 41
+    Caption = '/'
+    TabOrder = 13
+    OnClick = Button_DividirClick
+  end
+  object Edit_Display: TEdit
+    Left = 104
+    Top = 64
+    Width = 374
+    Height = 23
+    Alignment = taRightJustify
+    Enabled = False
+    TabOrder = 14
+  end
+  object Button_8: TButton
+    Left = 199
+    Top = 123
+    Width = 89
+    Height = 41
+    Caption = '8'
+    TabOrder = 15
+    OnClick = Button_8Click
+  end
+  object Button_9: TButton
+    Left = 294
+    Top = 123
+    Width = 89
+    Height = 41
+    Caption = '9'
+    TabOrder = 16
+    OnClick = Button_9Click
+  end
+  object Edit_Display2: TEdit
+    Left = 104
+    Top = 35
+    Width = 374
+    Height = 23
+    Alignment = taRightJustify
+    BorderStyle = bsNone
+    Enabled = False
+    TabOrder = 17
+  end
+  object Button_Ponto: TButton
+    Left = 23
+    Top = 217
+    Width = 75
+    Height = 41
+    Caption = '.'
+    TabOrder = 18
+    OnClick = Button_PontoClick
+  end
+end

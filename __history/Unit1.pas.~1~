@@ -1,0 +1,44 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+
+    Button_Adicionar    : TButton;
+    Button_Multiplicar  : TButton;
+    Button_Limpar       : TButton;
+    Button_Subtrair     : TButton;
+    Button_Resultado    : TButton;
+    Button_Dividir      : TButton;
+
+    Button_0: TButton;
+    Button_1: TButton;
+    Button_2: TButton;
+    Button_3: TButton;
+    Button_4: TButton;
+    Button_5: TButton;
+    Button_6: TButton;
+    Button_7: TButton;
+    Button_8: TButton;
+    Button_9: TButton;
+    Edit1: TEdit;
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+end.

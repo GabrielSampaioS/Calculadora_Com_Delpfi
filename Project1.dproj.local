@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/24 14:07:21.000.173,=C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/25 16:08:56.000.629,=C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/31 09:38:08.000.670,=C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 09:54:40.000.496,=C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/21 09:34:13.000.680,=C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/21 09:44:56.000.612,C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\boers\Desktop\CalculadoraDelphiGit\Unit1.dfm</Transaction>
+    <Transaction>2022/11/21 09:44:56.000.612,C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\boers\Desktop\CalculadoraDelphiGit\Unit1.pas</Transaction>
+    <Transaction>2022/11/21 09:44:59.000.906,C:\Users\boers\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\boers\Desktop\CalculadoraDelphiGit\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
